@@ -52,7 +52,6 @@ if __name__ == "__main__":
         [v[4], v[7]],
         [v[5], v[8]],
         [v[6], v[7]],
-        [v[7], v[8]],
     ]
     graph = GraphAdjList(edges)
     print("\n初始化后，图为")

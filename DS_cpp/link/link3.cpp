@@ -28,6 +28,17 @@ ListNode *detectCycle(ListNode *head){
     return NULL;
 }
 
+
+
+
+
+
+
+
+
+
+
+
 int main(){
     ListNode* node1 = new ListNode(1);
     ListNode* node2 = new ListNode(1);
